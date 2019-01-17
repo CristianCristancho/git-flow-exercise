@@ -5,4 +5,4 @@
 Recipe Picks:
 
 - January: [Grilled Peach Salad](../recipe/jan/grilled-peach-salad.md)
-- February: [Cheesecake Bars](../recipe/jan/Cheesecake-Bars.md)
+- February: [Cheesecake Bars](../recipe/feb/Cheesecake-Bars.md)
